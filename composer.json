@@ -9,6 +9,12 @@
       "email": "sdk-team@alibabacloud.com"
     }
   ],
+  "repositories": [
+      {
+          "type": "vcs",
+          "url": "https://github.com/alibabacloud-sdk-php/tea-oss-sdk"
+      }
+  ],
   "require": {
     "php": ">5.5",
     "alibabacloud/tea-utils": "^0.2.17",
